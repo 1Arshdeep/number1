@@ -28,7 +28,7 @@ public class UnoOnline
        UnoOnline newPortal = new UnoOnline();
        newPortal.run();
     }
-     /**
+     /**Just practice
      * method that takes in the User's name and chosen password
      * and then continues prompting until the password is valid based on the
      * following two rules:
